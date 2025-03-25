@@ -1,0 +1,26 @@
+{
+  "name": "vincentexam",
+  "version": "1.0.0",
+  "description": "Playwrigth test",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx playwright test --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flapjacks03/Covergo.git"
+  },
+  "author": "Vincent Ventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flapjacks03/Covergo/issues"
+  },
+  "homepage": "https://github.com/Flapjacks03/Covergo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "playwright": "^1.51.1"
+  }
+}
